@@ -1,2 +1,2 @@
 # Salesforce-Developer-Catalyst
-All Codes for the Salesforce Developer Catalyst Trailmix
+All the Codes for the ***Salesforce Developer Catalyst*** Trailmix
